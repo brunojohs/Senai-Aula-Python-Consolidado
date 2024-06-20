@@ -1,4 +1,4 @@
-# Comandos importantes para o Git Hub
+### Comandos importantes para o Git Hub ###
 
 git init # Comando inicial do Git
 
@@ -11,6 +11,23 @@ git status # demonstra o status do arquivo
 git add Olamundo.py # aqui você ativa a reastreabilidade do arquivo
 
 git config --global user.name "bruno_johs@hotmail.com" # aqui voce permite o usuário de autorização para sincronização no GitHub
+
+git commit -m "Escreva Aqui o que deseja commitar"
+
+git remote add origin http: coloque aqui o endereço do repositorio
+
+git push origin main # aqui traz todos os detalhes do arquivo
+
+git status 
+
+git add . # sempre que houver uma aleração 
+
+git commit -m " inserir o novo commit"
+
+
+ 
+
+ 
 
 
 
