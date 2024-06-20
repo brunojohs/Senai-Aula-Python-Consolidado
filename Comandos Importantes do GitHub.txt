@@ -12,17 +12,21 @@ git add Olamundo.py # aqui você ativa a reastreabilidade do arquivo
 
 git config --global user.name "bruno_johs@hotmail.com" # aqui voce permite o usuário de autorização para sincronização no GitHub
 
-git commit -m "Escreva Aqui o que deseja commitar"
-
 git remote add origin http: coloque aqui o endereço do repositorio
+
+### Sempre que Fizer uma alteração siga a Sequecia 
+
+git status
+
+git add . # sempre que houver uma aleração este comando vai monstrar quantos arquivos foram alterados para que possa validar. 
+
+git status # para visualizar as alteraçoes que de fato precisam ser enviadas.
+
+git commit -m "Escreva Aqui o que deseja commitar"
 
 git push origin main # aqui traz todos os detalhes do arquivo
 
-git status 
 
-git add . # sempre que houver uma aleração 
-
-git commit -m " inserir o novo commit"
 
 
  
