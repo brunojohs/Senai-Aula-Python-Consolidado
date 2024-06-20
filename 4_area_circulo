@@ -1,0 +1,36 @@
+
+# Auto: Bruno Manoel
+# Data: 28/05/2024
+# Versão: 1.0
+# Objetivo: Area do Circulo
+# Descrição:       Faça um algorítimo que receba o raio em metros de um  circulo e apresente
+#                  a sua área;     
+#
+#               ------------------------------------
+#               Exemplo de Execução:    
+#               Insira o raio em metros: 5
+#               Area do circulo: 78,5m²
+#               ------------------------------------               
+#               a = area
+#               pi = 3,14
+#               r = raio
+#               a = pi'(r2)
+#               ------------------------------------
+
+# Variáveis:
+
+a = area
+pi = 3,14
+r = raio
+a = pi'(r2)
+
+# entrada 
+
+r = 0
+  
+
+# processamento
+
+# saída 
+
+

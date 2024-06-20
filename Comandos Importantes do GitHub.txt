@@ -1,0 +1,20 @@
+# Comandos importantes para o Git Hub
+
+git init # Comando inicial do Git
+
+git branch -M main # Para alteração de Master para Main na "Branch" do Repositório Local 
+
+Ativação de Restreabilidade: 
+
+git status # demonstra o status do arquivo
+
+git add Olamundo.py # aqui você ativa a reastreabilidade do arquivo
+
+git config --global user.name "bruno_johs@hotmail.com" # aqui voce permite o usuário de autorização para sincronização no GitHub
+
+
+
+
+
+
+
