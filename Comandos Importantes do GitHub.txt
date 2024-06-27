@@ -26,6 +26,56 @@ git commit -m "Escreva Aqui o que deseja commitar"
 
 git push origin main # aqui traz todos os detalhes do arquivo
 
+# Comandos para o Clone dos arquivos
+
+> Clique no repositório a ser clonado
+> Depois clique no botão em Verde "Code" Copie o caminho do arquivo https://github.com/brunojohs/Senai-Aula-Python-Consolidado.git
+Comando: git clone e cole o endereço acima copiado
+depois entre na pasta através do comando "cd" + Tab que já vai mostrar as pastas disponíveis para vc entrar 
+depois digite o comando LS para listar se os arquivos estão dispoíveis. 
+
+# Exemplo de Status: 
+
+FIC@LAB-A01-D12 MINGW64 ~/desktop/Consolidado Aula Python (main)
+$ git clone https://github.com/brunojohs/Senai-Aula-Python-Consolidado.git
+Cloning into 'Senai-Aula-Python-Consolidado'...
+remote: Enumerating objects: 36, done.
+remote: Counting objects: 100% (36/36), done.
+remote: Compressing objects: 100% (31/31), done.
+remote: Total 36 (delta 5), reused 36 (delta 5), pack-reused 0
+Receiving objects: 100% (36/36), 13.65 KiB | 2.73 MiB/s, done.
+Resolving deltas: 100% (5/5), done.
+
+
+# Exemplo de LS: 
+
+FIC@LAB-A01-D12 MINGW64 ~/desktop/Consolidado Aula Python/Senai-Aula-Python-Consolidado (main)
+$ ls
+ 4_area_circulo                        Exe_15_prova_13062024.py
+ 4_area_circulo.py                     Exe_16_Aluno_N_Chamada.py
+ 4_area_circulo.txt                    Exe_17_Mes.py
+ Aula_3                                Exe_18_Secretaria.py
+'Comandos Importantes do GitHub.txt'   Exe_19_calcule_idade.py
+ EXe_5_elif.py                         Exe_6_McDonalds.py
+ EZ2_entrada_dados.py                  Exe_6_While.py
+ Ex1_ola_mundo.py                      Exe_7_Nome_mes.py
+ Ex_4_if_else.py                       Exe_8_Sal_func.py
+ Exe_10_Calculo_Multa.py               Exe_8_array.py
+ Exe_12_media_classe.py                Exe_8_array_parte_2.py
+ Exe_13_for.py                         Exe_9_Classif_Idade.py
+ Exe_13_tabuada.py                     Exemplo_9_apend.py
+ Exe_14_Tabuada_2.py                   Temperatura.py
+ Exe_14_Tabuada_Correto.py
+
+
+
+
+
+
+
+
+
+
 
 
 
